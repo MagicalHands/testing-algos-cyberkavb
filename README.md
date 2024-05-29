@@ -11,9 +11,9 @@ Accuracy of various model used for URL detection
 
 ||ML Model|	Accuracy|  	f1_score|	Recall|	Precision|
 |---|---|---|---|---|---|
-1|	Gradient Boosting Classifier|	0.974|	0.977|	0.994|	0.986|
+1|	Multi-layer Perceptron|	0.974|	0.977|	0.994|	0.986|
 2|	CatBoost Classifier|	        0.972|	0.975|	0.994|	0.989|
-3|	Multi-layer Perceptron|	        0.969|	0.973|	0.995|	0.981|
+3|	Gradient Boosting Classifier|	        0.969|	0.973|	0.995|	0.981|
 4|	Random Forest|	                0.967|	0.971|	0.993|	0.990|
 5|	Support Vector Machine|	        0.964|	0.968|	0.980|	0.965|
 6|	Decision Tree|      	        0.960|	0.964|	0.991|	0.993|
